@@ -1,5 +1,5 @@
 {
-  "inbox-placement": {
+  "/v1/inbox-placement": {
         "results": [
             {
                 "id": 3,
